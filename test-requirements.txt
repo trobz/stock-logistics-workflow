@@ -1,0 +1,2 @@
+odoo14-addon-stock-orderpoint-manual-procurement @ git+https://github.com/trobz/stock-logistics-warehouse@14.0-mig-stock_orderpoint_manual_procurement#subdirectory=setup/stock_orderpoint_manual_procurement
+
